@@ -10,4 +10,4 @@ Nodejscostam
 CC
 
 #AUTOR
-Ja
+ten projekt to stworzy³ Marek Informatyk
