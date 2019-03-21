@@ -3,9 +3,10 @@
 Celem tego repozytorium jest zapoznanie siê z gitem.
 
 ##O KURDEBELE
+Nodejscostam
 
 ## Licencja
-MIT
+apahce commos 2
 
 #AUTOR
 Ja
