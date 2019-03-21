@@ -6,7 +6,7 @@ Celem tego repozytorium jest zapoznanie siê z gitem.
 Nodejscostam
 
 ## Licencja
-apahce commos 2
+apahce commos 2 nowe
 
 #AUTOR
 Ja
