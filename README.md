@@ -6,7 +6,8 @@ Celem tego repozytorium jest zapoznanie siê z gitem.
 Nodejscostam
 
 ## Licencja
-MIT
+
+CC
 
 #AUTOR
 Ja
