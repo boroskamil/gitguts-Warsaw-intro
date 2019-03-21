@@ -6,3 +6,6 @@ Celem tego repozytorium jest zapoznanie siê z gitem.
 
 ## Licencja
 MIT
+
+#AUTOR
+Ja
