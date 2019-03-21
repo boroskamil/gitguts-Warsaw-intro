@@ -3,3 +3,6 @@
 Celem tego repozytorium jest zapoznanie siê z gitem.
 
 ##O KURDEBELE
+
+## Licencja
+MIT
