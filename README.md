@@ -1,6 +1,6 @@
 # Moje pierwsze repozytorium.
 
-Celem tego repozytorium jest zapoznanie siê z gitem.
+Celem tego repozytorium jest zapoznanie siÄ™ z gitem.
 
 ##O KURDEBELE
 Nodejscostam
@@ -10,4 +10,8 @@ Nodejscostam
 CC
 
 #AUTOR
-ten projekt to stworzy³ Marek Informatyk
+ten projekt to stworzyÅ‚ Marek Informatyk
+
+## KONIEC 
+
+To juÅ¼ ostatnie zadanie
